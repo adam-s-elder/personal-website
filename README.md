@@ -1,3 +1,3 @@
 # Repo for my personal website
 
-Feel free to use and modify the materials you find here, but please do cite me as the original author of these materials. 
+This is a repo for my website.  The original theme was developed by [Rebecca Barter](http://www.rebeccabarter.com/) and this is a fork of her [blogdown setup](https://github.com/rlbarter/personal-website)
